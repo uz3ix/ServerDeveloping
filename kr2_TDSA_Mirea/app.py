@@ -165,3 +165,4 @@ def info(response: Response, user_agent: str = Header(...), accept_language: str
             "Accept-Language": accept_language
         }
     }
+
